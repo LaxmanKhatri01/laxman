@@ -1,0 +1,1 @@
+print(" naam mero puskar")
