@@ -1,1 +1,0 @@
-print(" naam mero puskar")
